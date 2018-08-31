@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="circle">
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_width" format="dimension" />
+    </declare-styleable>
+</resources>
